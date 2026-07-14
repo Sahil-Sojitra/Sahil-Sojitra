@@ -18,7 +18,7 @@
 **Your Title · Second Thing · Third Thing**
 
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-yoursite.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://YOURSITE.com) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sahil-sojitra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-sojitra-1a9397262/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sahil-sojitra-1a9397262-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-sojitra-1a9397262/)
 [![Instagram](https://img.shields.io/badge/Instagram-_sahil_8541-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sahil_8541/)
 
 <br>
