@@ -47,20 +47,20 @@ HOST = "you"   # shown as  you@github  in the header
 
 ROWS = [
     ("host",),
-    ("kv", "Now", "Your current role @ Company"),
-    ("kv", "Prev", "Previous role @ Company"),
-    ("kv", "Also", "Another hat you wear"),
-    ("kv", "Edu", "Your degree, School 'YY"),
+    ("kv", "Now", "Your current role @ Webosmotic"),
+    # ("kv", "Prev", "Previous role @ Company"),
+    # ("kv", "Also", "Another hat you wear"),
+    ("kv", "Edu", "B.tech IT, SCET '26"),
     ("gap",),
     ("sec", "Stack"),
     ("kv", "Frontend", "React, Next.js, TypeScript"),
-    ("kv", "Backend", "Node, Postgres, GraphQL"),
+    ("kv", "Backend", "Node, MongoDB, PostgreSQL"),
     ("kv", "AI / ML", "LangChain, OpenAI, ..."),
     ("kv", "Cloud", "AWS, Docker, Vercel"),
     ("gap",),
-    ("sec", "Highlights"),
-    ("bul", "A thing you're proud of"),
-    ("bul", "Another highlight worth bragging about"),
+    # ("sec", "Highlights"),
+    # ("bul", "A thing you're proud of"),
+    # ("bul", "Another highlight worth bragging about"),
 ]
 
 
