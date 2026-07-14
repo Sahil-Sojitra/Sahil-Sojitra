@@ -13,7 +13,7 @@
 </tr>
 </table>
 
-## YOUR NAME
+## Sahil Sojitra
 
 **Your Title · Second Thing · Third Thing**
 
